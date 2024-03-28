@@ -37,7 +37,7 @@ I am a self-taught web developer.
 
 ### 🌍 Online Presence
 
-[![Github](https://img.shields.io/badge/ahmedpve-181717?style=social&logo=github&logoColor=181717)](https://github.com/ahmedpve)&nbsp;
+[![Github](https://img.shields.io/badge/ahmedrezkv-181717?style=social&logo=github&logoColor=181717)](https://github.com/ahmedrezkv)&nbsp;
 
 <!-- [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=social&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/) -->
 
@@ -45,6 +45,6 @@ I am a self-taught web developer.
 
 ### 💡 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedpve&layout=compact)](https://github.com/ahmedpve/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedrezkv&layout=compact)](https://github.com/ahmedrezkv/github-readme-stats)
 
-<!-- ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedpve&theme=radical&show_icons=true) -->
+<!-- ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedrezkv&theme=radical&show_icons=true) -->
