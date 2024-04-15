@@ -13,9 +13,7 @@ I am a self-taught web developer.
 
 ##### Foundations
 
-![Object-Oriented Programming](https://img.shields.io/badge/Object%20Oriented%20Programming-f43f5e?style=flat-square) ![Data Structures and Algorithms](https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-14b8a6?style=flat-square)
-
-<!-- ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-3b82f6?style=flat-square) -->
+![Object-Oriented Programming](https://img.shields.io/badge/Object%20Oriented%20Programming-f43f5e?style=flat-square) ![Data Structures and Algorithms](https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-14b8a6?style=flat-square) ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-3b82f6?style=flat-square)
 
 ##### Languages / Frameworks / Libraries
 
@@ -37,9 +35,7 @@ I am a self-taught web developer.
 
 ### 🌍 Online Presence
 
-[![Github](https://img.shields.io/badge/ahmedrezkv-181717?style=social&logo=github&logoColor=181717)](https://github.com/ahmedrezkv)&nbsp;
-
-<!-- [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=social&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/) -->
+[![Github](https://img.shields.io/badge/ahmedrezkv-181717?style=social&logo=github&logoColor=181717)](https://github.com/ahmedrezkv) [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=social&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ahmedrezkv)
 
 ---
 
